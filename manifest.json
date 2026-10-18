@@ -1,6 +1,6 @@
 {
-  "cue_db_version": 2,
-  "download_url": "https://github.com/sm20030/cardiostream-cdn/blob/main/remote_cues.json",
-  "sha256": "7fff0cc53388515744898ee0bf49ba9e1099d4c8336ae3a7bfd02707df54b477",
-  "updated_at": "2026-10-16"
+  "cue_db_version": 3,
+  "download_url": "https://raw.githubusercontent.com/sm20030/cardiostream-cdn/main/remote_cues.json",
+  "sha256": "640687545db6b79f311a24e50e271ebc7a3d9cf2d957989780c42336885df2b5",
+  "updated_at": "2026-10-17"
 }
