@@ -59,6 +59,7 @@
         "max_remaining_sec": 2147483647,
         "trigger_once": false,
         "cadence_interval_sec": 120
+        "priority": 90
       },
       "messages": [
         "Engine warming up — establishing your rhythm.",
@@ -84,6 +85,7 @@
         "max_remaining_sec": 2147483647,
         "trigger_once": false,
         "cadence_interval_sec": 180
+        "priority": 50
       },
       "messages": [
         "Cadence is locked. Let your legs carry the effort.",
@@ -124,6 +126,7 @@
         "max_remaining_sec": 2147483647,
         "trigger_once": false,
         "cadence_interval_sec": 120
+        "priority": 80
       },
       "messages": [
         "Quarter of the session left! Stay tall and hold your form.",
@@ -144,6 +147,7 @@
         "max_remaining_sec": 60,
         "trigger_once": false,
         "cadence_interval_sec": 30
+        "priority": 80
       },
       "messages": [
         "Final stretch! Dig deep and leave nothing on the table!",
@@ -212,6 +216,7 @@
         "max_remaining_sec": 2147483647,
         "trigger_once": false,
         "cadence_interval_sec": 300
+        "priority": 10
       },
       "messages": [
         "You're scaling the Eiffel Tower's 1,665 steps—{pct}% up, keep climbing!",
