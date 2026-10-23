@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "categories": [
     {
       "id": "warmup",
@@ -15,10 +15,15 @@
       "messages": [
         "Engine warming up — establishing your rhythm.",
         "Baseline locked in. Settle into a smooth, steady glide.",
-        "First few minutes in the bank — momentum is building!",
+        "Settling in nicely — momentum is starting to build!",
         "Body warm, mind sharp. Focus on consistent breathing.",
         "Easy does it — the first win of the day is simply showing up.",
-        "Loose shoulders, quiet feet. We ease into the work ahead."
+        "Loose shoulders, quiet feet. We ease into the work ahead.",
+        "You're here. That's the hardest part — now just keep moving.",
+        "Every step right now is a vote for the person you're becoming.",
+        "Don't overthink it — just move, breathe, and let the rhythm find you.",
+        "This is your time. Own it, one easy minute at a time.",
+        "Small effort, real payoff — you're already doing the thing."
       ]
     },
     {
@@ -93,11 +98,16 @@
         "cadence_interval_sec": 30
       },
       "messages": [
-        "Final push! Dig deep and leave nothing on the table!",
+        "Final stretch! Dig deep and leave nothing on the table!",
         "Under 10% remaining — empty the tank!",
-        "Seconds away from completion — finish strong and tall!",
+        "Closing in on completion — finish strong and tall!",
         "{time_left} left. Everything you have, right now.",
-        "No pacing needed anymore — pure, honest effort to the buzzer."
+        "No pacing needed anymore — pure, honest effort to the buzzer.",
+        "This is the part you'll remember tomorrow — give it everything.",
+        "You've come too far to coast now — finish the way you started.",
+        "The finish line is close enough to feel. Go get it.",
+        "Legs burning? Good — that's the last of the work leaving your body.",
+        "Prove to yourself that you finish what you start."
       ]
     },
     {
