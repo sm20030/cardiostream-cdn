@@ -1,6 +1,54 @@
 {
-  "version": 6,
+  "version": 7,
   "categories": [
+    {
+      "id": "milestone_25_approach",
+      "name": "Approaching Quarter Mark (25%)",
+      "rules": {
+      "min_percent": 19.5,
+      "max_percent": 24.5,
+      "trigger_once": true,
+      "priority": 90
+    },
+    "messages": [
+      "You're at {pct}% — the quarter-way mark is right in sight!",
+      "A fifth of the way in the bank — first major milestone coming up at 25%.",
+      "Approaching the quarter mark — keep this steady rhythm going!",
+      "Knocking down the early miles — 25% is just ahead."
+      ]
+    },
+    {
+      "id": "milestone_50_approach",
+      "name": "Approaching Halfway (50%)",
+      "rules": {
+        "min_percent": 44.5,
+        "max_percent": 49.5,
+        "trigger_once": true,
+        "priority": 90
+      },
+      "messages": [
+        "{pct}% and climbing — the halfway crest is just ahead!",
+        "Setting up the flip — almost at 50%, where the clock turns down!",
+        "Closing in on halfway! Steady work is paying off.",
+        "Approaching the halfway mark — prepare to shift into countdown mode!"
+      ]
+    },
+      {
+        "id": "milestone_75_approach",
+        "name": "Approaching Homestretch (75%)",
+        "rules": {
+        "min_percent": 69.5,
+        "max_percent": 74.5,
+        "trigger_once": true,
+        "priority": 90
+      },
+      "messages": [
+        "{pct}% completed — the homestretch is just ahead!",
+        "Closing in on 75% — the final quarter is almost here!",
+        "Approaching the final stretch! Hold your form and stay tall.",
+        "Almost at three-quarters done — pure momentum taking over now!"
+      ]
+    }
     {
       "id": "warmup",
       "name": "Warmup Phase",
